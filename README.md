@@ -11,10 +11,20 @@
 <br/>
 
 <!-- ===== SOCIAL BADGES ===== -->
-<!-- 아래 링크를 본인 정보로 수정하세요 -->
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whyisblueyours@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-weourus.xyz-FF5722?style=for-the-badge&logo=astro&logoColor=white)](https://weourus.xyz/)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://8735.tistory.com/)
 
 <br/><br/>
+
+---
+
+## 🚀 Main Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+<br/>
 
 ---
 
@@ -59,17 +69,18 @@
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ JeongHyeon1997 부분을 본인 GitHub 아이디로 변경하세요 -->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JeongHyeon1997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyeon1997&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JeongHyeon1997&theme=tokyonight&hide_border=true&date_format=Y.n.j&ring=7B2FBE&fire=FF6B6B&currStreakLabel=7B2FBE" width="70%" />
 </p>
+
+<br/>
+
+<!-- ===== GIT GARDEN ===== -->
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=JeongHyeon1997)](https://github.com/marshallku/gitgarden)
 
 <br/>
 
