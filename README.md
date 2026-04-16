@@ -69,16 +69,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeongHyeon1997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeongHyeon1997&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="100%" />
-</p>
-
-<br/>
-
 <!-- ===== ACTIVITY GRAPH ===== -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JeongHyeon1997&bg_color=1a1b27&color=7B2FBE&line=FF6B6B&point=FFD93D&area=true&area_color=7B2FBE&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
