@@ -79,11 +79,6 @@
 
 <br/>
 
-<!-- ===== GIT GARDEN ===== -->
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=JeongHyeon1997)](https://github.com/marshallku/gitgarden)
-
-<br/>
-
 <!-- ===== ACTIVITY GRAPH ===== -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JeongHyeon1997&bg_color=1a1b27&color=7B2FBE&line=FF6B6B&point=FFD93D&area=true&area_color=7B2FBE&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
