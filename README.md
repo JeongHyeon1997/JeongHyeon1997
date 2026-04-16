@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JeongHyeon1997&theme=tokyonight&hide_border=true&date_format=Y.n.j&ring=7B2FBE&fire=FF6B6B&currStreakLabel=7B2FBE" width="70%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JeongHyeon1997&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="100%" />
 </p>
 
 <br/>
